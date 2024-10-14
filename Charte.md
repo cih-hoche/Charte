@@ -48,9 +48,6 @@
 - Interdiction de trouer ou dégrader de quelconque manière les murs (ainsi que sols, plafonts, fenêtres, ...) de la salle.
 
 ## Non-respect de la présente charte
-- L'acceptation et le respect présente charte est une condition pour adhérer au Cih.
+- L'acceptation et le respect de la présente charte est une condition pour adhérer au Cih.
 - Le non-respect de cette charte sera sanctionné.
 - Le bureau du Cih se réserve le droit de radier un membre en cas de comportement jugé inapproprié ou de manquement à la charte.
-
-## Modification de la charte
-Le bureau se réserve le droit de modifier légèrement la charte, vous en serez informé via discord. Ou alors vous pouvez la consulter sur le Github du Cih https://github.com/cih-hoche/Charte/blob/main/Charte.md.
