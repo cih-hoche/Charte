@@ -8,8 +8,7 @@
 - Tout utilisation déplacée du matériel du Cih est interdite.
 - Ne manipulez pas des composants n'importe comment, ils sont fragiles.
 - Ouvrez **le moins possible** les ordinateurs. Soyez sûr de chaque modifications que vous faites à l'ordinatuer.
-- Ne laissez pas de boitier d'ordinateur ouvert (dumoins d'ordinateurs fonctionnels)
-- Il est interdit d'installer des logiciels malveillants ou autre choses malveillantes sur les ordinateurs.
+- Ne laissez pas de boitier d'ordinateur ouvert (dumoins d'ordinateurs fonctionnels).
 
 ## Utilisation des moyens mis à disposition par le Cih
 - Toute action malveillante, illégale, effectuée depuis le Cih (ou avec des moyens mis à disposition par le Cih) est absolument **INTERDITE**.
