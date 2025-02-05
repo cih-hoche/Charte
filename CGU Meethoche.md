@@ -30,7 +30,6 @@ Lors de son inscription, l’ENT transmet à MeetHoche les informations suivante
 - Date de naissance
 - UUID (Identifiant unique) de l’utilisateur
 
-Les inscriptions seront ouvertes à partir du 03/02/2025 à 10h00 et fermeront le 12/02/2025 à 20h00. Nous nous réservons le droit d'effectuer des changements d'horaires. Les horaires seront affichées sur le site.
 
 ### Phase de questionnaire
 
@@ -61,13 +60,17 @@ Cette phase est une phase interne uniquement. L’utilisateur n’aura pas d’i
 
 ### Phase finale
 
-A partir du 13/02/2025 à 10h00, les utilisateurs pourront se connecter à l’application afin d’obtenir le résultat de la phase de recherche de l’algorithme. Chaque personne pourra avoir un maximum de 2 recommandations qui lui seront faites, et un minimum de 0 s’il est impossible, pour une quelconque raison, de recommander quelqu’un à l’utilisateur. Les informations de contact fournies par les utilisateurs seront ensuite partagées afin que les deux personnes puissent entrer en contact.
+Après le lancement de la phase finale, les utilisateurs pourront se connecter à l’application afin d’obtenir le résultat de la phase de recherche de l’algorithme. Chaque personne pourra avoir un maximum de 2 recommandations qui lui seront faites, et un minimum de 0 s’il est impossible, pour une quelconque raison, de recommander quelqu’un à l’utilisateur. Les informations de contact fournies par les utilisateurs seront ensuite partagées afin que les deux personnes puissent entrer en contact.
 
 ### Fin du service
 
 Durant les jours qui suivent, l’équipe de MeetHoche se réserve le droit d’ajouter des fonctionnalités au service. Ces fonctionnalités potentielles seront facultatives et se conformeront à la Politique de Confidentialité en vigueur.
 
-Pour finir, à partir du 20/02/2025 à 0h00, le service sera arrêté et les données seront supprimées dans la semaine qui suit. Pourront être conservées des données anonymisées, notamment à des fins statistiques, mais aucune donnée personnelle liée à un utilisateur ne sera conservée.
+Pour finir, le service sera arrêté et les données seront supprimées dans la semaine qui suit. Pourront être conservées des données anonymisées, notamment à des fins statistiques, mais aucune donnée personnelle liée à un utilisateur ne sera conservée.
+
+### Dates
+
+Les dates sont mobiles et seront affichées sur le site mais la date de fermeture (pour la saison 2025) n'éxèdera pas le dimanche 23 mars 2025.
 
 ### Conclusion
 
