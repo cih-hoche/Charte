@@ -29,6 +29,7 @@ La salle B3 nous est accordée par le lycée sous certaines conditions.
 - La salle ne doit jamais rester ouverte sans personne à l'intérieur.
 - Il est **formellement interdit** de conserver les clés d'accès au CIH sans les rendre à la Vie Scolaire.
   > Procédure : demandez la clé à la Vie Scolaire, ouvrez la salle. En partant, **fermez la salle** et **rapportez la clé**.
+
 >[!warning]
 >**Avertissement de l'administration :** si les clés sont perdues, ou si elles ne sont pas rendues avant la fermeture de la Vie Scolaire, le club informatique fermera définitivement ses portes — et le responsable ~~sera roué~~ en répondra.
 
