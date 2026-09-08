@@ -48,7 +48,7 @@ Dépôt des chartes et documents du **Club Informatique de Hoche (CIH)**, lycée
 - [Rôle des anciens membres](Organigramme.md#8-rôle-des-anciens-membres)
 - [Schéma de l'organigramme](Organigramme.md#9-organigramme)
 - [Accès et modification des rôles](Organigramme.md#10-accès-et-modification-des-rôles)
-
+<!--
 ### …les conditions d'utilisation de nos services — [chartes-et-documents-externes/](chartes-et-documents-externes/)
 
 **MeetHoche**
@@ -60,6 +60,7 @@ Dépôt des chartes et documents du **Club Informatique de Hoche (CIH)**, lycée
 
 - [CGU QCM](chartes-et-documents-externes/CGU%20qcm.md) — [phase d'inscription](chartes-et-documents-externes/CGU%20qcm.md#phase-dinscription)
 - [Politique de confidentialité QCM](chartes-et-documents-externes/Politique%20de%20Confidentialité%20Qcm.md) — [données collectées](chartes-et-documents-externes/Politique%20de%20Confidentialité%20Qcm.md#données-collectées), [partage des données](chartes-et-documents-externes/Politique%20de%20Confidentialité%20Qcm.md#partage-des-données), [droits RGPD](chartes-et-documents-externes/Politique%20de%20Confidentialité%20Qcm.md#droit-à-linformation-à-la-rectification-et-à-loubli-rgpd)
+-->
 
 ### …ce qui est en préparation — [misc/](misc/)
 
